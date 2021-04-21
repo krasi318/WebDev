@@ -1,0 +1,52 @@
+h1{
+    text-Align: center;
+    border: 5px solid orange;
+    border-right: 2px solid orange;
+    padding: 3px 3px 3px 6px;
+    font-family: Georgia, serif;
+    margin: 0 auto;
+    width: 57px;
+    color : red;
+}
+
+div{
+    border: 5px solid green;
+    width: 500px;
+    margin: auto;
+    font-family: Georgia, serif;
+    text-transform: uppercase;
+
+}
+
+p{
+     font-family: Arial , Helvetica;
+                font-size: 2em;
+                text-decoration: underline;
+                color:purple;
+                font-weight: 400;
+                text-transform:capitalize;
+                margin:auto;
+   
+}
+
+body{
+    background:bisque ;
+}
+
+footer{
+    padding:10px;
+	font-size:27px;
+	font-weight:bold;
+	text-align:center;
+	background:#594849;
+	color:white;
+	font-family:Arial;
+	letter-spacint:1px; 
+}
+
+/*
+marquee{
+    scrollamout
+}
+*/
+
